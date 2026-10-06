@@ -5,7 +5,6 @@ Design Instagram text posts in the browser: pick a layout (quote or profile post
 ## Run locally
 
 ```
-cd instagram-post-maker
 python3 -m http.server 8000
 ```
 
